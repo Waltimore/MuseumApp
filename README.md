@@ -22,6 +22,7 @@ Optional:
 ## Prerequisites
 
 This app will use the Rijksmuseum API found here: https://www.rijksmuseum.nl/nl/api
+
 For user accounts and saving the collections Firebase will be used.
 
 The rijksmuseum website has a similar concept (called Rijks Studio) which also allows for the creation of collections by users which can then be viewed by other users, but this website is optimized for Computers. This app will try to offer a similar experience but optimized for a smartphone.

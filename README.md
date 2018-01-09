@@ -8,13 +8,14 @@ The Rijksmuseum is the first among the top museums in the world to have almost t
 
 An app which allows users to create accounts and look through the art collection of the Rijksmuseum and gives them the possibility to make their own collections as well as look at collections made by other users.
 
-![](doc/PProp2.png)
+![](doc/PProp3.png)
 
 Main features:
 
 - Search through the rijksmuseum collection being able to see detailed information and pictures of the art.
 - Users can create their own "collections" (for instance their top 10 favourite paintings of fruit or best portraits of the 17th century)
-- These collection can be seen by other users, who can favourite them.
+- These collection can be looked up and seen by other users, who can favourite them.
+- Users can see a list of recent users they have interacted with.
 
 Optional:
 

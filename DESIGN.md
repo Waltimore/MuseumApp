@@ -14,7 +14,7 @@ Since the rijksmuseum API offers a lot of information per artwork, it wouldn't b
 
 These are the structs that will be used to save the data in:
 
-![](doc/Structs.png)
+<img src="doc/Structs.png" width="200" height="250">
 
 Within Firebase, user-made collections will be saved under the users e-mail adress, which is how other users can look them up.
 
